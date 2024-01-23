@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-solution-bMP62WDyfn](https://www.frontendmentor.io/solutions/social-links-profile-solution-bMP62WDyfn)
+- Live Site URL: [https://onlycross12.github.io/social-links-profile-challenge/](https://onlycross12.github.io/social-links-profile-challenge/)
 
 ## My process
 
